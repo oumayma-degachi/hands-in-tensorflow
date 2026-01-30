@@ -10,7 +10,7 @@ The goal is hands-on learning through experimentation, reimplementation, and ext
 - Build a reusable personal reference for TensorFlow projects
 
 # List of Projects
-Project1_1cell_network       |  Basic project using 1 neurons cell network
-Using_fashion_mnist_dataset  |  Uses the fashion mnist dataset (28x28 pixels grayscale clothes)
-callbacks                    |  Uses callback function to stop training
+- Project1_1cell_network       |  Basic project using 1 neurons cell network
+- Using_fashion_mnist_dataset  |  Uses the fashion mnist dataset (28x28 pixels grayscale clothes)
+- callbacks                    |  Uses callback function to stop training
 
